@@ -33,7 +33,7 @@
 [![wakatime](https://wakatime.com/badge/user/30e315aa-5fcc-4a66-bc58-8f87a9c8b003.svg)](https://wakatime.com/@30e315aa-5fcc-4a66-bc58-8f87a9c8b003)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -76,14 +76,14 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               4 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.88 % 
-PHP                      2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-HTML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+JavaScript               4 hrs 4 mins        ████████████████░░░░░░░░░   65.76 % 
+PHP                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+HTML                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -103,7 +103,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/theniswara/theniswara/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 01:03:15 UTC
+ Last Updated on 06/02/2026 01:02:09 UTC
 <!--END_SECTION:waka-->
 
 
