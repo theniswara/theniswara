@@ -33,7 +33,7 @@
 [![wakatime](https://wakatime.com/badge/user/30e315aa-5fcc-4a66-bc58-8f87a9c8b003.svg)](https://wakatime.com/@30e315aa-5fcc-4a66-bc58-8f87a9c8b003)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -76,12 +76,13 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           54 mins             ██████████████████████░░░   89.16 % 
-PHP                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Blade Template           3 hrs 14 mins       ██████████████████████░░░   89.37 % 
+PHP                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +102,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/theniswara/theniswara/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2026 01:05:41 UTC
+ Last Updated on 18/02/2026 01:08:08 UTC
 <!--END_SECTION:waka-->
 
 
