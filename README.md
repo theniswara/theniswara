@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2026
+> 🏆 203 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,14 +76,14 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           1 hr 10 mins        ███████████░░░░░░░░░░░░░░   45.17 % 
-Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-PHP                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-CMake                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Text                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+CMake                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Bash                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -103,7 +103,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/theniswara/theniswara/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2026 01:09:57 UTC
+ Last Updated on 26/02/2026 01:03:06 UTC
 <!--END_SECTION:waka-->
 
 
