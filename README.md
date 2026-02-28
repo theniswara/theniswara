@@ -33,7 +33,7 @@
 [![wakatime](https://wakatime.com/badge/user/30e315aa-5fcc-4a66-bc58-8f87a9c8b003.svg)](https://wakatime.com/@30e315aa-5fcc-4a66-bc58-8f87a9c8b003)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -41,7 +41,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 205 Contributions in the Year 2026
+> 🏆 199 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,14 +76,14 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Text                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-CMake                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Bash                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+TypeScript               1 hr 8 mins         ████████████░░░░░░░░░░░░░   46.26 % 
+Text                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+CMake                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -103,7 +103,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/theniswara/theniswara/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 01:03:11 UTC
+ Last Updated on 28/02/2026 00:57:50 UTC
 <!--END_SECTION:waka-->
 
 
