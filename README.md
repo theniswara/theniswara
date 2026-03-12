@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,12 +76,11 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-CMake                    13 mins             ████████████░░░░░░░░░░░░░   49.45 % 
-TypeScript               10 mins             ██████████░░░░░░░░░░░░░░░   40.44 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+CMake                    13 mins             █████████████████████░░░░   83.02 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +100,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/theniswara/theniswara/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2026 01:01:34 UTC
+ Last Updated on 12/03/2026 00:58:45 UTC
 <!--END_SECTION:waka-->
 
 
