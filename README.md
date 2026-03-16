@@ -76,11 +76,10 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-CMake                    13 mins             █████████████████████░░░░   83.02 % 
-Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -100,7 +99,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/theniswara/theniswara/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2026 01:14:26 UTC
+ Last Updated on 16/03/2026 01:13:45 UTC
 <!--END_SECTION:waka-->
 
 
