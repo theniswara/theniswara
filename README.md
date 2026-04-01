@@ -76,10 +76,10 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +99,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/theniswara/theniswara/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2026 01:14:55 UTC
+ Last Updated on 01/04/2026 01:21:27 UTC
 <!--END_SECTION:waka-->
 
 
